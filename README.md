@@ -1,0 +1,1 @@
+# ads-star-rating-widget
